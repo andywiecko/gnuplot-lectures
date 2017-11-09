@@ -16,7 +16,7 @@ set xr[-5:10]
 set key noautotitle
 # key's width, sample length, spacing, border
 set key width 2 samplen 2 spacing 1 box
-# key's position, opaque add blue 'solid'
+# key's position, opaque add white 'solid'
 # background color, title
 set key top center opaque title 'key'
 # note: setting options can be mixed and
