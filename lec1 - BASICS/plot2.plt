@@ -1,10 +1,8 @@
 #!/bin/gnuplot
-
 #########################################
 # some colors, styles, paterns and etc. 
 # ... and key settings
 #########################################
-
 
 set yr[0:10]
 set xr[-5:10]
@@ -30,10 +28,11 @@ test
 
 pause 3
 
+#########################################
 # note: some of the option can be
 # replace with shortcuts e.g.:
 # `plot` is equilavent to simple `p`
-
+#########################################
 # functions can be separate with ','
 # `\` allows to line break
 # `ls` = linestyle 
@@ -47,6 +46,7 @@ pause 3
 p sqrt(x) t 'sqrt(x)' with lines       linestyle 1 linecolor 1 dt 1 lw 1,\
   x                   with linespoints ls 2 lc        2 dashtype 2 linewidth 1 pt 7,\
   x**2 t 'x^2'        with      points ls 3 lc        0 dt 3 pointsize 0.5
+#########################################
 
 pause 3
 

@@ -10,4 +10,4 @@
 * data from files
 * size, ratio borders
 * macros and functions
-
+* world map
