@@ -3,6 +3,10 @@
 # 3d plots
 #########################################
 
+# after reread all option will be set to
+# default
+reset
+
 # 3d grid samples
 set isosamples 50
 set hidden3d
@@ -36,5 +40,7 @@ pause 3
 # to define one: `help palette`
 set palette negative
 splot x**2*sin(y) w pm3d
+
+pause 3
 
 reread
