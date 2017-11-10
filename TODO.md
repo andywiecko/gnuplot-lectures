@@ -9,3 +9,5 @@
 * integration with latex
 * data from files
 * size, ratio borders
+* macros and functions
+

@@ -30,6 +30,8 @@ set key at graph 0.3,0.9
 # positioning on actual (x,y) in plot
 set label 1 "plotin' in gnuplot" at -9,4*10**3
 
+# setting size ratio 1:1 OX/OY axis
+set size ratio 1
 
 set grid ls 1 lc 0 lw 0.5
 p exp(x)+1 lw 2
