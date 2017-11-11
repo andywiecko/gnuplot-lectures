@@ -14,6 +14,8 @@ set hidden3d
 set view 60,35
 
 # from previous script we knew
+# that `splot` is a proper command
+# for 3d plots
 splot x**2*sin(y) palette
 
 pause 3
