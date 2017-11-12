@@ -1,5 +1,5 @@
 * multiplot
-* splot
+* ~splot~
 * terminals
 * statistics
 * integration with other programs
