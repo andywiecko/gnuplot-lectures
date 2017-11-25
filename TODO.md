@@ -1,13 +1,17 @@
-* multiplot
+#TODO
+
+* ~multiplot~
 * ~splot~
 * terminals
 * statistics
 * integration with other programs
 * heat maps
-* fits
+* ~fits~
 * bar plots
 * integration with latex
-* data from files
+* ~data from files~
 * size, ratio borders
 * macros and functions
 * world map
+* contours
+* pop/push terminal
