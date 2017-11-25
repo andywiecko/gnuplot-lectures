@@ -17,5 +17,5 @@ BASICS:
 ADVANCED:
 * some multiplots
 * manipulation data from file
-
+* statistics
 

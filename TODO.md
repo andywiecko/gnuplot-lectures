@@ -3,7 +3,7 @@
 * ~multiplot~
 * ~splot~
 * terminals
-* statistics
+* ~statistics~
 * integration with other programs
 * heat maps
 * ~fits~
