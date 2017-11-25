@@ -8,6 +8,7 @@ gnuplot step-by-step examples
 # Content:
 
 BASICS:
+![](misc/plot1.gif)
 * basics commands 
 * some colors, styles, paterns and etc  ... and key settings
 * borders, tics and labels
