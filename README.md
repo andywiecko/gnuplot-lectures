@@ -8,7 +8,8 @@ gnuplot step-by-step examples
 # Content:
 
 BASICS:
-* basics commands ![](misc/plot1.gif){width="36px"}
+* basics commands
+<img src="misc/plot1.gif" align="left" height="48" width="48" >
 * some colors, styles, paterns and etc  ... and key settings ![](misc/plot2.gif)
 * borders, tics and labels ![](misc/plot3.gif)
 * paramteric plot 2d, 3d ![](misc/plot4.gif)
