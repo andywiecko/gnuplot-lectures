@@ -9,11 +9,19 @@ gnuplot step-by-step examples
 
 BASICS:
 * basics commands
-<img src="misc/plot1.gif" align="left" height="48" width="48" >
-* some colors, styles, paterns and etc  ... and key settings ![](misc/plot2.gif)
-* borders, tics and labels ![](misc/plot3.gif)
-* paramteric plot 2d, 3d ![](misc/plot4.gif)
-* 3d plots ![](misc/plot5.gif)
+<img src="misc/plot1.gif" align="left" width="300" >
+
+* some colors, styles, paterns and etc  ... and key settings 
+<img src="misc/plot2.gif" align="left" width="300" >
+
+* borders, tics and labels 
+<img src="misc/plot3.gif" align="left" width="300" >
+
+* paramteric plot 2d, 3d 
+<img src="misc/plot4.gif" align="left" width="300" >
+
+* 3d plots 
+<img src="misc/plot5.gif" align="left" width="300" >
 
 ADVANCED:
 * some multiplots
