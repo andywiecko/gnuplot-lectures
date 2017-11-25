@@ -8,12 +8,16 @@ gnuplot step-by-step examples
 # Content:
 
 BASICS:
-![](misc/plot1.gif)
 * basics commands 
+![](misc/plot1.gif)
 * some colors, styles, paterns and etc  ... and key settings
+![](misc/plot2.gif)
 * borders, tics and labels
+![](misc/plot3.gif)
 * paramteric plot 2d, 3d
+![](misc/plot4.gif)
 * 3d plots
+![](misc/plot5.gif)
 
 ADVANCED:
 * some multiplots
