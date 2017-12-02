@@ -43,3 +43,8 @@ ADVANCED:
 
 <img src="misc/plot8.gif" width="500" >
 
+* macros, if, for statements
+
+<img src="misc/plot9.gif" width="500" >
+
+<img src="misc/wave.gif" width="500" >
